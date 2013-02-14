@@ -1,0 +1,14 @@
+vimkivy
+=======
+
+vimkivy is a vim plugin for support of the [Kivy][] language.
+It was not written by me, but compiled from [tshirtman's vim files][tshirtman].
+All credit goes to him. 
+
+I use [Vundle][] to manage my Vim plugins, so I created this repo to assist in
+compartmentalizing this for easy use with vundle.
+
+
+
+[Kivy]: http://kivy.org/
+[Vundle]: https://github.com/gmarik/vundle
